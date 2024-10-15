@@ -34,5 +34,11 @@ namespace EntityFrameworkProject
 			fr.Show();
 
 		}
+
+		private void button3_Click(object sender, EventArgs e)
+		{
+			Frmistatistik fr = new Frmistatistik();
+			fr.Show();
+		}
 	}
 }
